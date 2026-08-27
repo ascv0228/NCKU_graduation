@@ -1,5 +1,5 @@
 # NCKU_graduation
-
+[我修改的論文模板](https://github.com/ascv0228/CGLab_thesis_template) 這個格式是對的
 [其他參考](https://hackmd.io/@cpt/Sk2GApZdh)
 
 
