@@ -28,7 +28,7 @@
 1. 中文全彩+英文黑白
 2. 2片CD
 3. ORCID + 英文名字 + 常用email
-4. 反正他不會看精裝版論文，所以格式不重要，不用等圖書館審核
+4. 反正他不會看精裝版論文，所以格式不重要，不用等圖書館審核，精裝要至少3天先印
 5. 你不給他精裝版，他不想幫你簽離校
 
 ## 論文審查
@@ -39,7 +39,7 @@
 1. 等論文審查過後，平裝論文印3本，系辦2本，圖書館1本
 2. 格式可以查[圖書館](https://www.lib.ncku.edu.tw/service/graduation/graduation.php)有個PPT，反正就是光膜+封面橘黃(C0 M40 Y80 K0)+書背(...)+側邊()，跟元岡講要繳交的畢業論文他應該知道
 3. 口試當天影印的 "學位論文延後公開申請書"，要和離校手續單一起給系辦
-4. 學術倫理證明書也要一起給系辦
+4. [學術倫理證明書](https://ordb.ncku.edu.tw/ethics/)也要一起給系辦
 5. [離校手續單](https://www.csie.ncku.edu.tw/zh-hant/education/documents)，偷尼簽名->2樓總務->1樓系辦，去系辦順便給[學校的畢業生離校](https://nckustory.ncku.edu.tw/lou/leave/)
 6. [學校的畢業生離校](https://nckustory.ncku.edu.tw/lou/leave/)，系辦 -> 圖書館 -> 註冊組
 7. 3個授權書給圖書館
