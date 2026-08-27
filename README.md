@@ -1,6 +1,6 @@
 # NCKU_graduation
 
-(其他參考)[https://hackmd.io/@cpt/Sk2GApZdh]
+[其他參考](https://hackmd.io/@cpt/Sk2GApZdh)
 
 
 ## 口試前
@@ -13,10 +13,10 @@
 7. 餐點之類的可以請佳麗姐幫忙
 
 ## 口試當天
-1. (學位論文研究主題是否與專業領域相符同意表)[https://www.csie.ncku.edu.tw/zh-hant/education/documents] * n
+1. [學位論文研究主題是否與專業領域相符同意表](https://www.csie.ncku.edu.tw/zh-hant/education/documents) * n
 2. 學位考試論文評分表(在成大口試申請系統) * n 要去系辦蓋章
 3. 學位考試論文證明書(在成大口試申請系統) * 1
-4. 學位論文延後公開申請書列印(在成大口試申請系統) * 1
+4. 學位論文延後公開申請書列印(在成大口試申請系統) * 1 (日期寫口試日期)
 5. (自己決定) 口試PPT列印給口委 * n
 6. 準備原子筆 * n
 7. __多印幾張備用__
@@ -36,6 +36,6 @@
 
 ## 離校手續
 1. 等論文審查過後，平裝論文印3本，系辦2本，圖書館1本
-2. 格式可以查(圖書館)[https://www.lib.ncku.edu.tw/service/graduation/graduation.php]有個PPT，反正就是光膜+封面橘黃(C0 M40 Y80 K0)+書背(...)+側邊()，跟元岡講要繳交的畢業論文他應該知道
+2. 格式可以查[圖書館](https://www.lib.ncku.edu.tw/service/graduation/graduation.php)有個PPT，反正就是光膜+封面橘黃(C0 M40 Y80 K0)+書背(...)+側邊()，跟元岡講要繳交的畢業論文他應該知道
 3. 口試當天影印的所有口委簽名的紙本的 "學位論文延後公開申請書列印"，要給系辦
 4. 3個授權書給圖書館
