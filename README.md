@@ -42,6 +42,15 @@
 2. 英文摘要不用800個words，好像是看characters，反正我英文論文裡面的摘要沒800字
 3. turnitin(跑英文的論文，記得有命名格式，格式和給系辦的不一樣)(PS. 只要列印第一頁有論文名/人名/數字的那個，然後給偷尼簽，畢竟簽完又要掃描成PDF，不如一開始就不印出來)
 
+## 填問卷
+1. [學校離校手續] [應屆畢業生意向調查表](https://ques2.osa.ncku.edu.tw/~gfssys/index.php)
+2. [學校離校手續] [應屆畢業生核心能力問卷](https://eportfolio.ncku.edu.tw/index2/index.php)
+3. 登入後點選學生學習歷程檔 -> 畢業生核心能力問卷
+4. [系上離校手續] [成大校務資料庫與高教深耕計畫資料調查](https://forms.gle/QdWVaqmCHmWnnmpg9)
+5. [系上離校手續] [資工畢業生學習滿意度問卷調查表](http://ieet.csie.ncku.edu.tw/)
+6. [系上離校手續] [系友會資料](https://docs.google.com/forms/d/e/1FAIpQLSdXPOpPw-BSjDF1ZkSnbauQFlnLUzDw-fzkuJyHLKwfrAZ6bQ/viewform)
+
+
 ## 離校手續
 1. 等論文審查過後，平裝論文印3本，系辦2本，圖書館1本
 2. 影印樣式可以查[圖書館](https://www.lib.ncku.edu.tw/service/graduation/graduation.php)有個PPT，反正就是光膜+封面橘黃(C0 M40 Y80 K0)+書背(...)+側邊()，跟元岡講要繳交的畢業論文他應該知道
