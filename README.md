@@ -36,11 +36,11 @@
 ## 論文審查
 1. ORCID 可以申請一下，偷尼會你提供
 2. 英文摘要不用800個words，好像是看characters，反正我英文論文裡面的摘要沒800字
-3. turnitin(記得有命名格式，格式和給系辦的不一樣)(PS. 只要列印第一頁有論文名/人名/數字的那個，然後給偷尼簽，畢竟簽完又要掃描成PDF，不如一開始就不印出來)
+3. turnitin(跑英文的論文，記得有命名格式，格式和給系辦的不一樣)(PS. 只要列印第一頁有論文名/人名/數字的那個，然後給偷尼簽，畢竟簽完又要掃描成PDF，不如一開始就不印出來)
 
 ## 離校手續
 1. 等論文審查過後，平裝論文印3本，系辦2本，圖書館1本
-2. 格式可以查[圖書館](https://www.lib.ncku.edu.tw/service/graduation/graduation.php)有個PPT，反正就是光膜+封面橘黃(C0 M40 Y80 K0)+書背(...)+側邊()，跟元岡講要繳交的畢業論文他應該知道
+2. 影印樣式可以查[圖書館](https://www.lib.ncku.edu.tw/service/graduation/graduation.php)有個PPT，反正就是光膜+封面橘黃(C0 M40 Y80 K0)+書背(...)+側邊()，跟元岡講要繳交的畢業論文他應該知道
 3. 口試當天影印的 "學位論文延後公開申請書"，要和離校手續單一起給系辦
 4. [學術倫理證明書](https://ordb.ncku.edu.tw/ethics/)也要一起給系辦
 5. [離校手續單](https://www.csie.ncku.edu.tw/zh-hant/education/documents)，偷尼簽名->2樓總務->1樓系辦，去系辦順便給[學校的畢業生離校](https://nckustory.ncku.edu.tw/lou/leave/)
