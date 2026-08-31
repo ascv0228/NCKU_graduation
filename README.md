@@ -1,9 +1,8 @@
 # NCKU_graduation
 * [我修改的論文模板](https://github.com/ascv0228/CGLab_thesis_template) 這個格式是對的
 * [其他參考](https://hackmd.io/@cpt/Sk2GApZdh)
-* [論文格式](https://cid.acad.ncku.edu.tw/var/file/42/1042/img/3133795.pdf)
 * [論文格式](https://www.cc.ncku.edu.tw/rule/content.php?sn=6840)
-* [論文格式](https://cid-acad.ncku.edu.tw/var/file/42/1042/img/338899154.pdf)
+* [論文格式](https://cid-acad.ncku.edu.tw/var/file/42/1042/img/730/449865954.pdf)
 
 
 ## 口試前
