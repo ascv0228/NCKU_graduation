@@ -1,6 +1,9 @@
 # NCKU_graduation
 * [我修改的論文模板](https://github.com/ascv0228/CGLab_thesis_template) 這個格式是對的
 * [其他參考](https://hackmd.io/@cpt/Sk2GApZdh)
+* [論文格式](https://cid.acad.ncku.edu.tw/var/file/42/1042/img/3133795.pdf)
+* [論文格式](https://www.cc.ncku.edu.tw/rule/content.php?sn=6840)
+* [論文格式](https://cid-acad.ncku.edu.tw/var/file/42/1042/img/338899154.pdf)
 
 
 ## 口試前
@@ -54,7 +57,7 @@
 
 ## 離校手續
 1. 等論文審查過後，平裝論文印3本，系辦2本，圖書館1本
-2. 影印樣式可以查[圖書館](https://www.lib.ncku.edu.tw/service/graduation/graduation.php)有個PPT，反正就是光膜+封面橘黃(C0 M40 Y80 K0)+書背(...)+側邊()，跟元岡講要繳交的畢業論文他應該知道
+2. 影印樣式可以查[圖書館]([https://www.lib.ncku.edu.tw/service/graduation/graduation.php](https://cid-acad.ncku.edu.tw/var/file/42/1042/img/338899154.pdf))有個PPT，(一)博士班：均為精裝本，封面顏色為黑色，字體為白色。(二)碩士班：均為平裝本上光膜，封面顏色為橘黃色(參考色號CMYK:C0,M40,Y80,K0 或RGB:R247,G181,B115)，字體為黑色。跟元岡講要繳交的畢業論文他應該知道
 3. 口試當天影印的 "學位論文延後公開申請書"、"學術倫理證明書"，要和離校手續單一起給系辦
 4. [學術倫理證明書](https://ordb.ncku.edu.tw/ethics/) 也要一起給系辦
 5. [離校手續單](https://www.csie.ncku.edu.tw/zh-hant/education/documents)，偷尼簽名->2樓總務->1樓系辦，去系辦順便給[學校的畢業生離校](https://nckustory.ncku.edu.tw/lou/leave/)
